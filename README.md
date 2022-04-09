@@ -1,4 +1,4 @@
-# CodeCraft-2022
+# CodeCraft-2020
 
 2020 华为软件精英挑战赛(CodeCraft) 粤港澳赛区 本团队(hw00000001)参赛的源码
 
